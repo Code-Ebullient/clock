@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: url(./img/bgg.jpg)
+  /* (https://res.cloudinary.com/the-muses/image/upload/v1592493349/bkg_pameba.jpg);*/
+}
+
+h4 {
+  color: rgb(216, 103, 11);
+  font-size: 56px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#myClock {
+  color: rgb(74, 42, 190);
+  font-size: 42px;
+  text-align: center;
+  padding-top: 20px;
+}
